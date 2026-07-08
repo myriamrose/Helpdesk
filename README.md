@@ -1,4 +1,4 @@
-Help Desk — Gestion de Tickets
+Help Desk - Gestion de Tickets
 
 Application full-stack de gestion de tickets d'assistance (help desk interne).
 Frontend **React + TypeScript + Vite + Tailwind CSS**, backend **Node.js + Express + TypeScript + SQLite (better-sqlite3)**.
